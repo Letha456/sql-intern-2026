@@ -11,4 +11,4 @@ SELECT  FirstName, LastName, EmployeeID  FROM Employees
 SELECT RegionDescription FROM Region
 
 --5
-SELECT CategoryID, CategoryName, Description FROM Categories
+SELECT CategoryID, CategoryName, [Description] FROM Categories
