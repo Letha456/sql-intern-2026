@@ -1,0 +1,10 @@
+--DISTINCT
+SELECT * FROM [Order Details]
+
+SELECT * FROM Orders
+
+SELECT DISTINCT OrderID FROM Orders
+
+SELECT DISTINCT OrderID FROM [Order Details]
+
+ 
